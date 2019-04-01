@@ -1,0 +1,49 @@
+.coolTitle {
+	text-align: center;
+	font-family: 'Oswald', Helvetica, sans-serif;
+	font-size: 40px;
+	transform: skewY(-10deg);
+	letter-spacing: 4px;
+	word-spacing: -8px;
+	color: tomato;
+	text-shadow: 
+	  -1px -1px 0 firebrick,
+	  -2px -2px 0 firebrick,
+	  -3px -3px 0 firebrick,
+	  -4px -4px 0 firebrick,
+	  -5px -5px 0 firebrick,
+	  -6px -6px 0 firebrick,
+	  -7px -7px 0 firebrick,
+	  -8px -8px 0 firebrick,
+	  -30px 20px 40px dimgrey;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+h1 {
+	text-shadow: 3px 2px #9B8D94;
+	font-family: 'Righteous', cursive;
+}
+
+button {
+	background-color: #FF4646;
+	color: #550000;
+	border-radius: 10px;
+	margin: 5px; 
+	font-family: 'Bree Serif', serif;
+}
+
+li {
+	font-family: 'EB Garamond', serif;
+}
+
+#first {
+	font-family: 'Amiri', serif;
+}
+
+#enter {
+	background-color: #c7a2b6;
+	color: #2D0A1C;
+}
